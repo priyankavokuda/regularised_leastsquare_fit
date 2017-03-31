@@ -1,10 +1,10 @@
-#This code demonstrates the effect of regularized least square fit
+# This code demonstrates the effect of regularized least square fit
 
-#Dependencies
+# Dependencies
 
 Python 2.7
 
-#Usage
+# Usage
 
 Run ls_vs_r_ls.py
 
